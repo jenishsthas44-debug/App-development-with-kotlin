@@ -22,6 +22,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "spotify activity"
+rootProject.name = "Card activity"
 include(":app")
  
