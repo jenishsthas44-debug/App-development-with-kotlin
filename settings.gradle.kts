@@ -22,5 +22,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "RETRO"
+rootProject.name = "spotify activity"
 include(":app")
+ 
