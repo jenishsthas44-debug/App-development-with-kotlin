@@ -22,6 +22,5 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "Card activity"
+rootProject.name = "RETRO"
 include(":app")
- 
